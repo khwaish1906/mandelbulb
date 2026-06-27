@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,50000
+102,Mobile,Electronics,25000
+103,Headphones,Accessories,2000
+104,Keyboard,Accessories,1500
+105,Mouse,Accessories,800
+106,Monitor,Electronics,12000
+107,Printer,Office,9000
+108,Tablet,Electronics,18000
+109,Speaker,Accessories,3500
+110,Router,Networking,2500

@@ -1,0 +1,44 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite databases (auto-generated)
+*.db
+*.sqlite
+*.sqlite3
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Temp / uploads
+tmp/
+temp/
+uploads/
+
+# Distribution
+dist/
+build/
+*.egg-info/

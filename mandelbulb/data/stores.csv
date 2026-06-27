@@ -1,0 +1,6 @@
+store_id,store_name,city,region
+1,RetailMart Delhi,Delhi,North
+2,RetailMart Mumbai,Mumbai,West
+3,RetailMart Bangalore,Bangalore,South
+4,RetailMart Chennai,Chennai,South
+5,RetailMart Kolkata,Kolkata,East
