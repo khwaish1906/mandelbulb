@@ -9,6 +9,8 @@
 
 ---
 
+LIVE URL - https://mandelbulb-fsbmq28arbf52jdovtuwtt.streamlit.app/
+
 ## 📌 Overview
 
 A complete **end-to-end Data Engineering project** that ingests raw retail CSV files, runs an automated ETL pipeline, stores data in a SQLite warehouse, and serves interactive analytics through a professional Streamlit dashboard.
